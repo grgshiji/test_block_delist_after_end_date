@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "oYbfn2QwQks1b4wJI0UyN",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/test_block_delist_after_end_date.git",
+    "ssh": "git@github.com:grgshiji/test_block_delist_after_end_date.git",
     "branch": "block_test_block_delist_after_end_date"
   },
   "parentBlockIDs": [],
